@@ -6,7 +6,6 @@ public class Main {
     static int[][] board;
     static int dx[] = {-1, 0, 1, 0};  // 위 왼쪽 아래 오른쪽
     static int dy[] = {0, 1, 0, -1};
-    static ArrayList<Fish> fishes;
     static int time = 0;
     static Queue<Fish> q;
 
